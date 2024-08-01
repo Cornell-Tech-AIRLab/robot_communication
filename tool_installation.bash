@@ -11,4 +11,5 @@ sudo pip install adafruit-blinka
 sudo pip install RPi.GPIO
 pip install --user --no-cache-dir adafruit-circuitpython-neopixel
 sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
-
+sudo apt update
+sudo apt ugrade
