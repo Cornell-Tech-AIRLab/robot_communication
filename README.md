@@ -76,9 +76,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 1. Use the Raspberry Pi imager to install the Ubuntu OS on a mini SD card
 2. Connect the electronics
-   <img src="images/diagram.png" alt="Logo" width="500" height="280">
-3. Attach LED strip
-4. Download this repo's files, extract, and move them to Home
+   </br>
+   <img src="images/diagram.png" alt="diagram" width="500" height="280">
+4. Attach LED strip
+5. Download this repo's files, extract, and move them to Home
 6. Download the Robot Operating System 2
    ```sh
    bash ros2_installation.bash;
