@@ -98,8 +98,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
    bash tool_installation.bash
    ```
 10. Edit light_node src code for compatibility with your cart
-
-11. Run the below to rerun the GUI
+<img src="images/code.png" alt="Logo" width="360" height="360">
+11. Enter the below to rerun the GUI
     ```sh
     source /opt/ros/humble/setup.bash
     colcon build --symlink-install
@@ -107,7 +107,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     source install/setup.bash
     ros2 run light_pkg light_node
     ```
-
+12. Connect the bluetooth speaker
+13. Run the modules
+    ```sh
+    cd robot_communication_ws
+    source install/setup.bash
+    ros2 run [light/dialogue/alert]_pkg [light/dialogue/alert]_node
+    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -120,22 +126,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -153,18 +143,10 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
-
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
-
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the [insert] License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,9 +155,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Tauhid Tanjim - [@twitter_handle](https://twitter.com/twitter_handle) - tt485@cornell.ed
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/Cornell-Tech-AIRLab/robot_communication)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
