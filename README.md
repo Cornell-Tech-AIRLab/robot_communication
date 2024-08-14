@@ -60,9 +60,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![ROS2][ROS2.js]][ROS2-url]
-* [![Python][Python.js]][Python-url]
-* [![Shell][Shell.js]][Shell-url]
+* ROS2
+* Python
+* Shell
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 5. Download this repo's files, extract, and move them to Home
 6. Download the Robot Operating System 2
    ```sh
-   bash ros2_installation.bash;
+   bash ros2_installation.bash
    ```
 7. Test ROS2 installation
    ```sh
@@ -167,9 +167,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Tauhid Tanjim]()
+* [Angelique M. Taylor]()
+* [Anaiya Z. Badi]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
