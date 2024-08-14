@@ -11,8 +11,6 @@
   <p align="center">
     project_description
     <br />
-    <br />
-    <br />
     <a href="https://github.com/github_username/repo_name">View Written Tutorial</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">View Video Tutorial</a>
@@ -71,39 +69,44 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Parts list
+<a href="https://tinyurl.com/airlabparts">Access the full parts list here</a>
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### How to build
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Use the Raspberry Pi imager to install the Ubuntu OS on a mini SD card
+2. Connect the electronics
+   <img src="images/diagram.png" alt="Logo" width="360" height="360">
+3. Attach LED strip
+4. Download this repo's files, extract, and move them to Home
+6. Download the Robot Operating System 2
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   bash ros2_installation.bash;
    ```
-3. Install NPM packages
+7. Test ROS2 installation
    ```sh
-   npm install
+   source /opt/ros/humble/setup.bash
+   ros2 run demo_nodes_cpp talker
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
+   Then in another terminal window
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   source /opt/ros/humble/setup.bash
+   ros2 run demo_nodes_cpp listener
    ```
+9. Install necessary tools
+   ```sh
+   bash tool_installation.bash
+   ```
+10. Edit light_node src code for compatibility with your cart
+
+11. Run the below to rerun the GUI
+    ```sh
+    source /opt/ros/humble/setup.bash
+    colcon build --symlink-install
+    cd robot_communication_ws
+    source install/setup.bash
+    ros2 run light_pkg light_node
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
