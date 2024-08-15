@@ -156,7 +156,7 @@ Distributed under the [insert] License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tauhid Tanjim - [@twitter_handle](https://twitter.com/twitter_handle) - tt485@cornell.ed
+Tauhid Tanjim - [@twitter_handle](https://twitter.com/twitter_handle) - [@email](mailto:tt485@cornell.ed)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/Cornell-Tech-AIRLab/robot_communication)
 
