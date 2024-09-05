@@ -11,7 +11,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name">View Written Tutorial</a>
+    <a href="https://docs.google.com/document/d/1KvPWVKEoa6st01Lje3RoO4LwnnV1hYYY65QvjM2gEx4/edit?usp=sharing">View Written Tutorial</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">View Video Tutorial</a>
   </p>
@@ -78,29 +78,28 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 2. Connect the electronics
    </br>
    <img src="images/diagram.png" alt="diagram" width="500" height="280">
-4. Attach LED strip
-5. Download this repo's files, extract, and move them to Home
-6. Download the Robot Operating System 2
+3. Attach LED strip
+4. Download this repo's files, extract, and move them to Home
+5. Download the Robot Operating System 2
    ```sh
    bash ros2_installation.bash
    ```
-7. Test ROS2 installation
+6. Test ROS2 installation
    ```sh
    source /opt/ros/humble/setup.bash
    ros2 run demo_nodes_cpp talker
    ```
-   Then in another terminal window
+7. Then in another terminal window
    ```sh
    source /opt/ros/humble/setup.bash
    ros2 run demo_nodes_cpp listener
    ```
-9. Install necessary tools
+8. Install necessary tools
    ```sh
    bash tool_installation.bash
    ```
-10. Edit light_node src code for compatibility with your cart
-<img src="images/code.png" alt="Logo" width="360" height="360">
-11. Enter the below to rerun the GUI
+9. Edit light_node src code for compatibility with your cart
+10. Enter the below to rerun the GUI
     ```sh
     source /opt/ros/humble/setup.bash
     colcon build --symlink-install
@@ -108,8 +107,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     source install/setup.bash
     ros2 run light_pkg light_node
     ```
-12. Connect the bluetooth speaker
-13. Run the modules
+11. Connect the bluetooth speaker
+12. Run the modules
     ```sh
     cd robot_communication_ws
     source install/setup.bash
@@ -169,7 +168,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 * [Tauhid Tanjim](https://tanjim13.github.io/tauhidtanjim/)
 * [Angelique M. Taylor](https://www.angeliquemtaylor.com/)
-* [Anaiya Z. Badi](https://docs.google.com/document/d/1z2HB42OGzKS1NlbbgwKZfSXtgrfLyVLObFCGZabNTzU/edit?usp=sharing)
+* [Anaiya Z. Badi](https://docs.google.com/document/d/1VPmA8w0qBB_M0ndjtkOx5oHL52gwwqPhwYwyyan_PXs/edit?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
