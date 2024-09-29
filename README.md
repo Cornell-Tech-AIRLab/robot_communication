@@ -50,9 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Healthcare workers face many challenges during bedside care that impede team collaboration and often lead to poor patient outcomes. Robots have the potential to support medical decision-making, help identify medical errors, and deliver supplies to clinical teams in a timely manner. However, there is a lack of knowledge about using robots to support clinical team dynamics despite being used in surgery, healthcare operations, and other applications. This version of the crash cart is a "Wizard of Oz" robot, allowing us to explore the robot's interactions with healthcare workers without needing to spend the time and resources to program it to run autonomously.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
