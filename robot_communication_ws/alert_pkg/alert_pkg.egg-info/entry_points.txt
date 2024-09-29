@@ -1,0 +1,3 @@
+[console_scripts]
+alert_node = alert_pkg.alert_node:main
+
