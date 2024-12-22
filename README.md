@@ -73,10 +73,10 @@ Healthcare workers face many challenges during bedside care that impede team col
 ### How to build
 
 1. Use the Raspberry Pi imager to install the Ubuntu OS on a mini SD card
-2. Connect the electronics
+2. Attach LED strip
+3. Connect the electronics (red to 5V power, black to ground, green to GPIO 18)
    </br>
    <img src="images/diagram.png" alt="diagram" width="500" height="280">
-3. Attach LED strip
 4. Download this repo's files, extract, and move them to Home
 5. Download the Robot Operating System 2
    ```sh
