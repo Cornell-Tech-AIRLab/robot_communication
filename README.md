@@ -5,7 +5,6 @@
   <a href="https://airlab.cis.cornell.edu/">
     <img src="images/logo.png" alt="Logo" width="360" height="360">
   </a>
-
 <h3 align="center">Medical Crash Cart Robot Tutorial</h3>
   <p>
     <a href="https://docs.google.com/document/d/1KvPWVKEoa6st01Lje3RoO4LwnnV1hYYY65QvjM2gEx4/edit?usp=sharing">View Written Tutorial</a>
