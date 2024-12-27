@@ -69,7 +69,7 @@ Healthcare workers face many challenges during bedside care that impede team col
 2. Attach LED strip
 3. Connect the electronics (red to 5V power, black to ground, green to GPIO 18)
    </br>
-   <img src="images/diagram.png" alt="diagram" width="500" height="280">
+   <img src="images/diagram.png" alt="diagram" width="750" height="420">
    </br>
    <figcaption>Fig: Electronic wiring connections for Raspberry Pi 4 with monitor, keyboard, mouse, and LED using appropriate wires and ports.</figcaption>
 4. Download this repo's files, extract, and move them to Home
