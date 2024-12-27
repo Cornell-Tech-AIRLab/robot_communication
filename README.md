@@ -30,7 +30,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#parts-list">Getting Started</a>
       <ul>
         <li><a href="#parts-list">Parts list</a></li>
         <li><a href="#how-to-build">How to build</a></li>
@@ -141,21 +141,12 @@ Distributed under the [insert] License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tauhid Tanjim - [tt485@cornell.ed](mailto:tt485@cornell.edu)
+* [Anaiya Z. Badi](https://docs.google.com/document/d/1VPmA8w0qBB_M0ndjtkOx5oHL52gwwqPhwYwyyan_PXs/edit?usp=sharing) at [anaiya.badi@gmail.com](anaiya.badi@gmail.com)
+* [Tauhid Tanjim](https://tanjim13.github.io/tauhidtanjim/) at [tt485@cornell.edu](tt485@cornell.edu)
+* [Angelique M. Taylor](https://www.angeliquemtaylor.com/) at [amt@cornell.edu](amt@cornell.edu)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/Cornell-Tech-AIRLab/robot_communication)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Tauhid Tanjim](https://tanjim13.github.io/tauhidtanjim/)
-* [Angelique M. Taylor](https://www.angeliquemtaylor.com/)
-* [Anaiya Z. Badi](https://docs.google.com/document/d/1VPmA8w0qBB_M0ndjtkOx5oHL52gwwqPhwYwyyan_PXs/edit?usp=sharing)
-
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
