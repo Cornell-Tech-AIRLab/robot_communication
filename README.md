@@ -26,7 +26,7 @@
       </ul>
     </li>
     <li>
-      <a href="#parts-list">Getting Started</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#parts-list">Parts list</a></li>
         <li><a href="#how-to-build">How to build</a></li>
@@ -59,6 +59,7 @@ Healthcare workers face many challenges during bedside care that impede team col
 
 
 <!-- GETTING STARTED -->
+## Getting Started
 ### Parts list
 <a href="https://tinyurl.com/airlabparts">Access the full parts list here</a>
 
