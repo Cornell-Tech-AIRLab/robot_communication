@@ -141,7 +141,7 @@ Distributed under the [insert] License. See `LICENSE.txt` for more information.
 * [Tauhid Tanjim](https://tanjim13.github.io/tauhidtanjim/) at [tt485@cornell.edu](tt485@cornell.edu)
 * [Angelique M. Taylor](https://www.angeliquemtaylor.com/) at [amt@cornell.edu](amt@cornell.edu)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/Cornell-Tech-AIRLab/robot_communication)
+Project Link: [https://github.com/Cornell-Tech-AIRLab/robot_communication](https://github.com/Cornell-Tech-AIRLab/robot_communication)
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
