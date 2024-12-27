@@ -6,7 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="360" height="360">
   </a>
 
-<h3 align="center">RoboCart</h3>
+<h3 align="center">Medical Crash Cart Robot Tutorial</h3>
 
   <p align="center">
     project_description
