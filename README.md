@@ -8,9 +8,6 @@
 
 <h3 align="center">Medical Crash Cart Robot Tutorial</h3>
 
-  <p align="center">
-    project_description
-    <br />
     <a href="https://docs.google.com/document/d/1KvPWVKEoa6st01Lje3RoO4LwnnV1hYYY65QvjM2gEx4/edit?usp=sharing">View Written Tutorial</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">View Video Tutorial</a>
